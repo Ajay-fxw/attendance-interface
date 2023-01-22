@@ -1,0 +1,65 @@
+.backimg{
+    background: linear-gradient(180deg,#FF4500, #FFA500, #000080);
+    position: relative;
+    height: 637px;
+
+}
+.crd{
+    width: 344px;
+    left: 513px;
+    top: 68px;
+    height: 433px;
+    padding: 18px;
+}
+
+.btnn1{  
+    margin: 38px;   
+    background-color: #FF4500;
+}
+.btnn2{  
+    margin: 38px;  
+    background-color:#FFA500 ; 
+}
+.btnn3{  
+    margin: 38px; 
+    background-color: #000080;  
+}
+.crddiv{
+    padding-top: 61px;
+    /* min-height: -webkit-fill-available; */
+    height: 508px;
+    justify-content: center;
+}
+.maincrd{
+height: 476px;
+border: 1px solid rgb(12, 12, 12);
+}
+/* .btnn1:hover{
+    transform: scale(1.1);
+} */
+/* .btnn2:hover{
+    transform: scale(1.1);
+}
+.btnn3:hover{
+    transform: scale(1.1);
+}  */
+
+.mainimg{
+    background-image: url(https://banner2.cleanpng.com/20181107/ice/kisspng-educational-technology-school-learning-clip-art-academic-research-surveys-online-academic-research-5be2949aed0cf6.302852081541575834971.jpg);
+}
+
+/* .crddiv:hover .maincrd{
+   filter:blur(20px);
+   transform: scale(0.9);
+   opacity: 0.5; 
+}
+   
+ .crddiv .maincrd:hover{
+    filter:blur(0px);
+    transform: scale(1.1);
+    opacity:1; 
+ } */
+.maincrd{
+    box-shadow: 0 15px 25px  #333231;
+}
+ 

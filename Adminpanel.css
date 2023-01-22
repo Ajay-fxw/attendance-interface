@@ -1,0 +1,33 @@
+.backimg{
+    background-image: url(https://img.freepik.com/free-vector/businessman-with-portfolio-avatar_24877-475.jpg?size=338&ext=jpg);
+    position: relative;
+    height: 349px;
+    /* background-position: left; */
+    left: 0px;
+    width: 292px;
+    top: -5px;
+}
+.MainCrd{
+    height:auto;
+    margin-top: 51px;
+}
+
+ .butn1{
+    margin: 27px;
+    background-color: #000080;
+ }
+ .backclr{
+    background-color:#3c1874;
+ }
+
+ .butn1:hover{
+    transform: scale(1.1);
+ }
+
+ .backimg:hover{
+    transform: scale(0.9);
+ }
+  
+ .headtxt:hover{
+     transform: scale(1.1);
+ }

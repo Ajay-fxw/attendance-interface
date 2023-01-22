@@ -1,0 +1,33 @@
+.backimg{
+    background-image: url(https://i.pinimg.com/originals/cb/6a/36/cb6a366970d25fef7ef0c75bece6abb4.png);
+    position: relative;
+    height: 376px;
+    /* background-position: left; */
+    left: -59px;
+    width: 357px;
+    top: -5px;
+}
+.MainCrd{
+    height:auto;
+    margin-top: 51px;
+}
+
+ .butn1{
+    margin: 27px;
+    background-color: #FF4500;
+ }
+ .backclr{
+    background-color:#3c1874;
+ }
+
+ .butn1:hover{
+    transform: scale(1.1);
+ }
+
+ .backimg:hover{
+    transform: scale(0.9);
+ }
+  
+ .headtxt:hover{
+     transform: scale(1.1);
+ }

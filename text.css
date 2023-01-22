@@ -1,0 +1,126 @@
+.backimg{
+    background-color:#3c1874;
+    position: relative;
+    height: 637px;
+
+}
+.crd{
+    width: 344px;
+    left: 513px;
+    top: 68px;
+    height: 433px;
+    padding: 18px;
+}
+
+.btnn1{  
+    margin: 38px;   
+    background-color: #FF4500;
+}
+.btnn2{  
+    margin: 38px;  
+    background-color:#FFA500 ; 
+}
+.btnn3{  
+    margin: 38px; 
+    background-color: #000080;  
+}
+.crddiv{
+    padding-top: 61px;
+    /* min-height: -webkit-fill-available; */
+    height: 508px;
+    justify-content: center;
+}
+.maincrd{
+height: 476px;
+border: 1px solid rgb(12, 12, 12);
+}
+/* .btnn1:hover{
+    transform: scale(1.1);
+} */
+/* .btnn2:hover{
+    transform: scale(1.1);
+}
+.btnn3:hover{
+    transform: scale(1.1);
+}  */
+
+.mainimg{
+    background-image: url(https://banner2.cleanpng.com/20181107/ice/kisspng-educational-technology-school-learning-clip-art-academic-research-surveys-online-academic-research-5be2949aed0cf6.302852081541575834971.jpg);
+}
+
+.card{
+    opacity: 1;
+    animation: fadeIn 3s ease;
+  }
+  
+  @keyframes fadeIn{
+    0%{
+      opacity: 0;
+    }
+    100%{
+      opacity: 1;
+    }
+  }
+  
+  /* .btnn1{
+    opacity: 1;
+    animation: fadeIn 3s ease;
+  }
+  
+  @keyframes fadeIn{
+    0%{
+      opacity: 0;
+    }
+    100%{
+      opacity: 1;
+    }
+  } */
+
+  /* .btnn2{
+    opacity: 1;
+    animation: fadeIn 4s ease;
+  }
+  
+  @keyframes fadeIn{
+    0%{
+      opacity: 0;
+    }
+    100%{
+      opacity: 1;
+    }
+  } */
+
+  /* .btnn3{
+    opacity: 1;
+    animation: fadeIn 8s ease;
+  }
+  
+  @keyframes fadeIn{
+    0%{
+      opacity: 0;
+    }
+    100%{
+      opacity: 1;
+    }
+  } */
+
+  .btnn{
+    transition: width 9s;
+  }
+.btnn:hover {
+    width: 380px;
+}
+
+#btnn11{
+     transition-timing-function: linear;
+   
+    
+    /* transition-timing-function: ease-out;
+    transition-timing-function: ease-in-out; */
+}
+#btnn22{
+    transition-timing-function: ease;
+}
+#btnn33{
+    transition-timing-function: ease-in;
+}

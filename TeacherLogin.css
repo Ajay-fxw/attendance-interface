@@ -1,0 +1,25 @@
+.backimg{
+    background-color:#3c1874;
+    position: relative;
+    height: 637px;
+
+}
+ 
+
+
+.crddiv{
+    padding-top: 61px;
+    /* min-height: -webkit-fill-available; */
+    height: 508px;
+    justify-content: center;
+}
+.maincrd{
+height: 476px;
+border: 1px solid rgb(12, 12, 12);
+}
+ .logbtnclr{
+     background-color:  #FFA500;
+ }
+ .backbtnclr{
+    background-color: #3c1874;
+ }
